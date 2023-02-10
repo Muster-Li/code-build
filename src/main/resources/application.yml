@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: code-build
+
+server: #web服务配置（可使用默认配置）
+  port: 80 #web服务端口
