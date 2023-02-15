@@ -8,6 +8,6 @@ public class Utils {
 
     @GetMapping("/hello")
     private String test() {
-        return "Hello World";
+        return "Hello World2";
     }
 }
